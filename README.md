@@ -1,16 +1,16 @@
 ### Hi there 👋
+I'm a beginner front-end developer currently learning HTML, CSS, and JavaScript. I'm excited to start building my own projects and learning more about web development.
 
-<!--
-**yesilyurtgh/yesilyurtgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🎓 I'm currently enrolled in a 6-month front-end development course.
+💻 I'm familiar with HTML and CSS, and I'm currently learning JavaScript.
+🌱 I'm passionate about learning new technologies and building projects.
+📫 You can reach me at [myesilyurt11@gmail.com]
+Projects
+I'm currently working on some small projects to practice my skills, including a personal website and a simple game built with JavaScript. I'll be updating this section as I build more projects.
 
-Here are some ideas to get you started:
+Goals
+My goal is to become a skilled front-end developer and build great websites and web applications. I'm excited to continue learning and growing in this field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for checking out my profile!
+
