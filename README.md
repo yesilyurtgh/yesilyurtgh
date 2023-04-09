@@ -1,4 +1,5 @@
-### Hi there 👋
+### 
+<h1>Hi there 👋</h1>
 I'm a beginner front-end developer currently learning HTML, CSS, and JavaScript. I'm excited to start building my own projects and learning more about web development.
 
 About Me
