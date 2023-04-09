@@ -1,6 +1,7 @@
 ### 
 <h3>Hi there 👋</h3>
-  I'm a beginner front-end developer currently learning HTML, CSS, and JavaScript. I'm excited to start building my own projects and learning more about web development.
+
+  I'm a beginner front-end developer currently learning HTML, CSS, and JavaScript. I'm excited to start building my own projects and learning more about web development. <br>
 🎓 I'm currently enrolled in a 6-month front-end development course. <br>
 🌱 I'm familiar with HTML and CSS, and I'm currently learning JavaScript. <br>
 ❤️ I'm passionate about learning new technologies and building projects. <br>
